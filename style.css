@@ -46,12 +46,14 @@
     background-color:white;
 }
 .box3{
+    color:brown;
     position:absolute;
     bottom:200px;
     background-color:white;
 
 }
 .box4{
+    color:brown;
     position:absolute;
     right: 20px;
     background-color:white;
