@@ -1,0 +1,118 @@
+.margin{
+    
+    background-color: grey;
+}
+.body{
+    color:brown;
+    background-color:white;
+    border-radius: 20px;
+    border: 5px solid red;
+    padding:5px;
+    padding-left:10px;
+    padding-right:10px;
+    text-align:center;
+    display:inline-block;
+    width:500px;
+    box-shadow:2px 2px 5px purple;
+    font-style:italic;
+    font-style:15px;
+    margin-left:500px;
+}
+.header{
+    border: 5px solid green;
+    height:700px;
+    border-radius:12px;
+    position:relative;
+}
+.box{
+    border:5px solid red;
+    width:300px;
+    border-radius:10px;
+}
+.box1{
+    color:brown;
+    padding:20px;
+    padding-bottom:10px;
+    background-color:white;
+    position: relative;
+
+    
+}
+.box2{
+    top:2px;
+    position:absolute;
+    right:20px;
+    padding: 40px 20px;
+    background-color:white;
+}
+.box3{
+    position:absolute;
+    bottom:200px;
+    background-color:white;
+
+}
+.box4{
+    position:absolute;
+    right: 20px;
+    background-color:white;
+    bottom:200px;
+    text-align:center;
+    
+}
+.flex{
+    color:brown;
+    border-radius: 20px;
+    width:500px;
+    position:fixed;
+    left: 500px;
+    top: 200px;
+    text-align:left;
+    height: 110px;
+    background-color:greenyellow;
+    border: 5px solid red;
+    font-size:20px;
+    font-style: italic;
+}
+.parent{
+    margin:auto;
+    width:800px;
+    height:600px;
+    background-color:green;
+    border:5px solid purple;
+    color:black;
+}
+.heading{
+    margin:auto;
+    font-size:25px;
+    font-style:italic;
+}
+.child1{
+    border:2px solid grey;
+    margin:12px 3px;
+    padding:12px 3px;
+    background-color:yellow;
+    float:left;
+    width:370px
+    line-height:20px;
+    text-align:justify;
+}
+.child2{
+    border:2px solid grey;
+    margin:12px 3px;
+    background-color:yellow;
+    padding:12px 3px;
+    float:left;
+    width:370px;
+}
+.child3{
+    border:2px solid grey;
+    margin:12px 3px;
+    padding:12px 3px;
+    background-color:yellow;
+    float:left;
+    width:100%;
+    clear:left;
+    font-weight:300;
+    text-align:left;
+    text-align:right
+}
